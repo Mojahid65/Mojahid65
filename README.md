@@ -6,9 +6,7 @@
 
 - 🔭 I'm currently working on **MojahidX AI **
 
-- 🌱 I'm currently learning **C## **
-
-- 👯 I'm looking to collaborate on **Toolsax.com**
+- 🌱 I'm currently learning ** python, Photoshop  **
 
 - 🤝 I'm looking for help with **AI based API**
 
