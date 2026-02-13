@@ -1,9 +1,6 @@
 # Hi 👋, I'm Mojahid Hassan 
-![lv_0_20260213181107](https://github.com/user-attachments/assets/e91499c8-542f-43f7-9306-5bcb37ba8fcc)
-
 ### A passionate web developer from india
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mojahid65&label=Profile views&color=0e75b6&style=flat" alt="Mojahid65" /> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/e91499c8-542f-43f7-9306-5bcb37ba8fcc" alt="Mojahid65" /> </p>
 
 - 🔭 I'm currently working on **MojahidX AI **
 
