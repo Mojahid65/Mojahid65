@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://portfolio.mojahidgfx.online/](https://www.mojahidhassan.in/)**
 
-- 📝 I regularly write articles on **[[https://blog.mojahidgfx.online/](https://www.mojahidhassan.in/blogs)](https://www.mojahidhassan.in/blogs)**
+- 📝 I regularly write articles on **[](https://www.mojahidhassan.in/blogs)**
 
 - 📄 Know about my experiences **[coimg soon}**
 
