@@ -8,13 +8,13 @@
 
 - 🤝 I'm looking for help with **AI based API**
 
-- 📫 How to reach me **mojahidgfx@gmail.com**
+- 📫 How to reach me **hello@mojahidhassan.in**
 
 - ⚡ Fun fact **i'm noob**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio.mojahidgfx.online/](https://portfolio.mojahidgfx.online/)**
+- 👨‍💻 All of my projects are available at **[https://portfolio.mojahidgfx.online/](https://www.mojahidhassan.in/)**
 
-- 📝 I regularly write articles on **[https://blog.mojahidgfx.online/](https://blog.mojahidgfx.online/)**
+- 📝 I regularly write articles on **[[https://blog.mojahidgfx.online/](https://www.mojahidhassan.in/blogs)](https://www.mojahidhassan.in/blogs)**
 
 - 📄 Know about my experiences **[coimg soon}**
 
